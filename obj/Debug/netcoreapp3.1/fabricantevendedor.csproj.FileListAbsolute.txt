@@ -11,3 +11,16 @@ C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricant
 C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.dll
 C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.pdb
 C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.genruntimeconfig.cache
+C:\src\PSP\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.exe
+C:\src\PSP\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.deps.json
+C:\src\PSP\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.runtimeconfig.json
+C:\src\PSP\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.runtimeconfig.dev.json
+C:\src\PSP\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.dll
+C:\src\PSP\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.pdb
+C:\src\PSP\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.csprojAssemblyReference.cache
+C:\src\PSP\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.AssemblyInfoInputs.cache
+C:\src\PSP\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.AssemblyInfo.cs
+C:\src\PSP\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.csproj.CoreCompileInputs.cache
+C:\src\PSP\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.dll
+C:\src\PSP\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.pdb
+C:\src\PSP\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.genruntimeconfig.cache

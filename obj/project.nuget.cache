@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YeTh/6mF49pN0P9pdiesSl5Pn7jyEDigpzBgD2VpH6cC0tsLQbvMrX9Hj7ZD6SdBgiPIx2usFWrcsL6sDApyYg==",
+  "dgSpecHash": "likoQLkJ4OUMyzfPRGXfOmVDnGCwg/1cWdDBqpjV95nC0DMC8f3AbcEVL3awgi4IGfejVlP2lTQfw09IjtM0GA==",
   "success": true,
-  "projectFilePath": "C:\\8 PSP\\FabricanteVendedor\\fabricantevendedor\\fabricantevendedor.csproj",
+  "projectFilePath": "C:\\src\\PSP\\fabricantevendedor\\fabricantevendedor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
