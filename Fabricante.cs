@@ -8,14 +8,18 @@ namespace fabricantevendedor
         private Almacen _a;
         private Thread _t;
         private Random _rnd = new Random();
-        public Fabricante(Almacen a)
+        private int _mls;//milisegundos
+        private int _art;//milisegundos
+        public Fabricante(Almacen a , int mls , int art)
         {
             this._a = a;
+            this._mls = mls;
+            this._art = art;
         }
 
         public void Fabrica()
         {
-            this._t = new Thread(() => this._Accion());
+            this._t = new Thread(() => this._Accion(this._mls , this._art));
             this._t.Start();
         }
 
@@ -24,13 +28,11 @@ namespace fabricantevendedor
             _t.Join();
         }
 
-        private void _Accion()
+        private void _Accion(int milisegundos , int articulos)
         {
-            int ms;
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < articulos; i++)
             {
-                ms = _rnd.Next(1000, 2000);
-                Thread.Sleep(ms);
+                Thread.Sleep(milisegundos);
                 _a.Guardar();
             }
         }

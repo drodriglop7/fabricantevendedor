@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\8 PSP\\FabricanteVendedor\\fabricantevendedor\\fabricantevendedor.csproj": {}
+    "C:\\src\\PSP\\fabricantevendedor\\fabricantevendedor.csproj": {}
   },
   "projects": {
-    "C:\\8 PSP\\FabricanteVendedor\\fabricantevendedor\\fabricantevendedor.csproj": {
+    "C:\\src\\PSP\\fabricantevendedor\\fabricantevendedor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\8 PSP\\FabricanteVendedor\\fabricantevendedor\\fabricantevendedor.csproj",
+        "projectUniqueName": "C:\\src\\PSP\\fabricantevendedor\\fabricantevendedor.csproj",
         "projectName": "fabricantevendedor",
-        "projectPath": "C:\\8 PSP\\FabricanteVendedor\\fabricantevendedor\\fabricantevendedor.csproj",
-        "packagesPath": "C:\\Users\\Dany\\.nuget\\packages\\",
-        "outputPath": "C:\\8 PSP\\FabricanteVendedor\\fabricantevendedor\\obj\\",
+        "projectPath": "C:\\src\\PSP\\fabricantevendedor\\fabricantevendedor.csproj",
+        "packagesPath": "C:\\Users\\peioa\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\PSP\\fabricantevendedor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dany\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\peioa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
