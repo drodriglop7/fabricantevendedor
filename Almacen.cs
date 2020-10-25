@@ -24,7 +24,7 @@ namespace fabricantevendedor
                     Thread.CurrentThread.ManagedThreadId,
                     (currentTime - this._initTime).ToString().PadLeft(5),
                     this._contador);
-                Monitor.Pulse(bloqueo);
+                Monitor.PulseAll(bloqueo);
             }
         }
         public void Sacar()
@@ -47,7 +47,7 @@ namespace fabricantevendedor
                     Thread.CurrentThread.ManagedThreadId,
                     (currentTime - this._initTime).ToString().PadLeft(5),
                     this._contador);
-                Monitor.Pulse(bloqueo);
+                Monitor.PulseAll(bloqueo);
             }
         }
     }
