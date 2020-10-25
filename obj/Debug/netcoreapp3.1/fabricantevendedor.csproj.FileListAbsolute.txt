@@ -1,0 +1,13 @@
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.exe
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.deps.json
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.runtimeconfig.json
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.runtimeconfig.dev.json
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.dll
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.pdb
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.csprojAssemblyReference.cache
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.AssemblyInfoInputs.cache
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.AssemblyInfo.cs
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.csproj.CoreCompileInputs.cache
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.dll
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.pdb
+C:\8 PSP\FabricanteVendedor\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.genruntimeconfig.cache
